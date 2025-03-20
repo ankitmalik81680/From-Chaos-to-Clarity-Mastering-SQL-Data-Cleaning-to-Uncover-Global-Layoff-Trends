@@ -1,10 +1,14 @@
 # PortfolioProjects-
 
 Data Cleaning Portfolio Project: Layoffs
+
+
 Cleaned and preprocessed a layoffs dataset using SQL, addressing duplicates, standardizing entries, 
 and handling missing values. Transformed raw data into a reliable foundation for analyzing global workforce trends
 
 Dataset before cleaning - layoffs.csv
+
+
 Dataset after cleaning - layoffs_staging2.csv
 
 🔍 **Project Overview**  
