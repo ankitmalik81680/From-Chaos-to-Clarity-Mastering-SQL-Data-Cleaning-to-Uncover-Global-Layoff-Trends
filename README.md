@@ -49,7 +49,7 @@ Dataset before cleaning - layoffs.csv
 
 Dataset after cleaning - layoffs_staging2.csv
 
-🔍 **Project Overview**  
+🔍 Project Overview  
 Performed comprehensive data cleaning on a layoffs dataset using SQL, ensuring data integrity for analysis. Key steps included:  
 
 - Duplicate Removal: Utilized `ROW_NUMBER()` with partitions to identify and delete duplicates in a staging table.  
@@ -57,7 +57,7 @@ Performed comprehensive data cleaning on a layoffs dataset using SQL, ensuring d
 - Null Handling: Addressed missing `industry` values via self-joins and removed rows with incomplete layoff metrics.  
 - Schema Optimization: Dropped redundant columns and ensured consistent data types.  
 
-📌 Skills Highlighted**  
+📌 Skills Highlighted 
 - SQL techniques: CTEs, window functions, string manipulation, self-joins, and schema modification.  
 - Attention to detail in data validation and transformation.  
 
