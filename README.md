@@ -1,7 +1,7 @@
 # From Chaos to Clarity: Mastering SQL Data Cleaning to Uncover Global Layoff Trends
 
 
-Description:
+Description
 In this case study, I tackle a real-world dataset of global company layoffs, demonstrating how SQL can transform raw, unstructured data into a reliable foundation for analysis. Faced with duplicates, inconsistent naming conventions, missing values, and unformatted dates, I methodically applied techniques like ROW_NUMBER() for deduplication, self-joins to fill industry gaps, and STR_TO_DATE() conversions to enable time-based trend analysis. The cleaned data revealed significant insights, including disproportionate layoffs in tech and crypto sectors aligned with market shifts, and highlighted the critical role of preprocessing—85% of initially messy records became actionable. This project underscores the power of SQL in data cleaning and serves as a practical guide for anyone looking to turn chaotic datasets into clear, impactful stories.
 
 
