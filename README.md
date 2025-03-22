@@ -51,10 +51,6 @@ Conclusion and Personal Reflections
 
 Cleaning this dataset taught me patience and precision. One hurdle was resolving ambiguous industry labels (e.g., “Crypto” vs. “Cryptocurrency”), which required domain research. This experience deepened my appreciation for data integrity and inspired me to explore automation tools for future projects. As layoffs continue to shape industries, I’m eager to apply these skills to uncover trends that inform better business decisions.  
 
-Call To Action  
-
-Interested in data storytelling or collaboration? Let’s connect on [LinkedIn](link)! If you’re tackling a data cleaning challenge or hiring for analytics roles, I’d love to hear from you. Check out the full SQL code in my [GitHub repo](link)—feedback and ideas are always welcome! 🚀
-
 
 💡 Impact  
 Transformed raw data into a clean, analysis-ready dataset, enabling accurate insights into global layoff trends.  
