@@ -1,4 +1,4 @@
-# PortfolioProjects-
+# From Chaos to Clarity: Mastering SQL Data Cleaning to Uncover Global Layoff Trends
 
 
 Why This Project?  
